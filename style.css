@@ -1,0 +1,54 @@
+body {
+    margin: 10 auto;
+    
+    background: url("img/rain.PNG");
+    
+    font-family: DejaVu Sans Mono, monospace;
+    line-height: 1.5;
+    font-size: 18px
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    
+    background-color: #fff;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 10px;
+}
+
+.card-photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.card-title {
+    font-family: monospace;
+    font-size: 25px;
+    text-align: center;
+    color: #241E4E;
+}
+
+.card-text {
+    font-size: 18px;
+}
+
+.card-subtitle {
+    font-size: 25px;
+    color: steelblue;
+}
+
+.card-list {
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.title {
+    font-family: cursive;
+    font-size: 45px;
+    color: #145C9E;
+}
